@@ -1,0 +1,77 @@
+
+import requests
+import base64
+from PIL import Image
+from io import BytesIO
+from tkinter import Tk, filedialog
+
+# 1. Chọn ảnh
+root = Tk()
+root.withdraw()
+
+image_path = filedialog.askopenfilename(
+    title="Chọn ảnh lá cây cần nhận diện",
+    filetypes=[("Image files", "*.jpg *.jpeg *.png")]
+)
+
+if not image_path:
+    print("Bạn chưa chọn ảnh!")
+    raise SystemExit
+
+# 2. Gửi ảnh lên API
+try:
+    with open(image_path, "rb") as f:
+        response = requests.post(
+            "http://127.0.0.1:8000/predict",
+            files={"file": f},
+            timeout=120
+        )
+except requests.exceptions.RequestException as e:
+    print("Không kết nối được API:", e)
+    raise SystemExit
+
+# 3. Kiểm tra phản hồi
+print("HTTP Status:", response.status_code)
+
+try:
+    data = response.json()
+except ValueError:
+    print("API không trả về JSON:")
+    print(response.text)
+    raise SystemExit
+
+if response.status_code != 200:
+    print("API bị lỗi:", response.status_code)
+    print("Chi tiết lỗi:", data)
+    print("Nội dung phản hồi:", response.text)
+    raise SystemExit
+
+if not data.get("success", False):
+    print("Nhận diện thất bại:", data)
+    raise SystemExit
+
+# 4. Lấy ảnh có bounding box
+if "annotated_image" not in data:
+    print("API không trả về ảnh đã vẽ khung!")
+    print(data)
+    raise SystemExit
+
+image_base64 = data["annotated_image"].split(",", 1)[1]
+image_bytes = base64.b64decode(image_base64)
+
+image = Image.open(BytesIO(image_bytes))
+image.show()
+
+# 5. Hiển thị kết quả nhận diện
+print("\n===== KẾT QUẢ NHẬN DIỆN =====")
+print("Tên ảnh:", data.get("filename"))
+print("Trạng thái:", data.get("status"))
+print("Thông báo:", data.get("message"))
+print("Tổng số đối tượng:", data.get("total_detections"))
+
+for item in data.get("detections", []):
+    print("\nTên lớp:", item.get("class_name"))
+    print("Độ tin cậy:", item.get("confidence"))
+    print("Bounding box:", item.get("bounding_box"))
+
+print("\nNhận diện thành công!")

@@ -1,0 +1,90 @@
+[
+    {
+        "ma_nhan": 1,
+        "folder_goc": "Apple___Apple_scab",
+        "ten_lop": "Apple_Apple_scab",
+        "Tên cây trồng": "Táo",
+        "Tên bệnh": "Táo – Bệnh ghẻ táo",
+        "Dấu hiệu nhận biết": "Trên lá có đốm tròn màu ô-liu đến nâu đen, bề mặt mịn như nhung. Về sau lá vàng và rụng sớm. Trên quả xuất hiện vết sần sùi, nứt, quả méo mó và giảm chất lượng.",
+        "Nguyên nhân gây bệnh": "Do nấm Venturia inaequalis, tồn tại qua đông trong lá rụng. Bào tử phát tán khi có mưa. Bệnh nặng khi ẩm độ cao và trời mát (khoảng 10–24°C), từ lúc nảy chồi đến sau khi ra hoa.",
+        "Cách phòng ngừa": "• Thu gom, xử lí lá rụng để giảm nguồn bệnh qua đông; kiểm tra vườn vào mùa thu để quyết định biện pháp. \n• Chọn giống kháng/ít nhiễm. Lưu ý chưa có giống thương mại nào kháng đủ để không bao giờ phải phun thuốc, và tính kháng có thể bị nòi nấm mới vượt qua. \n• Kết hợp giống kháng, kĩ thuật canh tác tốt, vệ sinh vườn và thuốc trừ nấm (quản lí tổng hợp).",
+        "Cách xử lí khi cây bị bệnh": "• Mục tiêu: hạn chế lây nhiễm sơ cấp (bào tử túi) và giảm nguồn bệnh qua đông. \n• Phun thuốc trừ nấm bảo vệ theo cảnh báo/khuyến cáo địa phương. Tài liệu nêu: lưu huỳnh–vôi, đồng hoặc chế phẩm sinh học (hướng hữu cơ) ; hoạt chất myclobutanil .\n• Khi chọn thuốc cần tính nguy cơ nấm kháng thuốc; một số thuốc còn ức chế được nấm trong giai đoạn ủ bệnh nếu dùng đúng liều và thời điểm. \n• Chỉ dùng thuốc đã đăng ký tại Việt Nam và theo nhãn."
+    },
+    {
+        "ma_nhan": 2,
+        "folder_goc": "Apple___Black_rot",
+        "ten_lop": "Apple_Black_rot",
+        "Tên cây trồng": "Táo",
+        "Tên bệnh": "Táo – Bệnh thối đen",
+        "Dấu hiệu nhận biết": "• Lá (đốm “mắt ếch” – frogeye): đốm tròn, giữa nâu nhạt, viền tím/nâu sẫm; đốm già có thể có chấm đen nhỏ (pycnidia) ở giữa. \n• Quả: thường bắt đầu ở đầu quả (phía đài hoa); vết thối lan rộng với các vòng đồng tâm nâu–đen, cuối cùng quả chuyển đen, thịt còn cứng/dai. \n• Cành: vết loét hơi lõm màu nâu đỏ, vỏ khô, nứt, bong tróc, có chấm đen nhỏ; vết loét lớn có thể quấn quanh cành làm cành yếu và chết.",
+        "Nguyên nhân gây bệnh": "Do nấm Botryosphaeria obtusa. Nấm qua đông trong vết loét trên cành, cành chết, lá rụng và quả khô (mummy) còn lại trong vườn. Bào tử (conidia) tạo ra lúc ẩm ướt và lan theo mưa, gió, côn trùng. Nấm xâm nhiễm qua vết thương hở; lá thường nhiễm vào giai đoạn tàn cánh hoa. Nấm có thể nhiễm trên hơn 100 loài cây gỗ/cây bụi nên nguồn bào tử khá phổ biến.",
+        "Cách phòng ngừa": "• Vệ sinh vườn là then chốt: cắt bỏ và tiêu hủy cành chết, cành loét, quả khô. \n• Tỉa cành vào mùa đông (khi trời lạnh); hạn chế gây vết thương cho cành, lá, quả. \n• Giữ cây khỏe, tưới đủ nước; chọn giống ít nhiễm khi có (lưu ý: mọi giống đều mẫn cảm tương đương với bệnh thối quả). \n• Chương trình phun phòng ghẻ táo thường cũng giúp kiềm chế bệnh này.",
+        "Cách xử lí khi cây bị bệnh": "• Cắt bỏ cành loét, thu gom quả thối/quả khô và đưa ra khỏi vườn để tiêu hủy.\n• Thuốc trừ nấm không hiệu quả trên vết loét ở cành, nên biện pháp canh tác/vệ sinh là chính. \n• Với bệnh trên lá và quả, dùng thuốc trừ nấm bảo vệ theo khuyến cáo (tài liệu có nhắc ví dụ captan). \n• Chỉ dùng thuốc đã đăng ký tại Việt Nam và theo nhãn."
+    },
+    {
+        "ma_nhan": 3,
+        "folder_goc": "Apple___Cedar_apple_rust",
+        "ten_lop": "Apple_Cedar_apple_rust",
+        "Tên cây trồng": "Táo",
+        "Tên bệnh": "Táo – Bệnh gỉ sắt táo tuyết tùng",
+        "Dấu hiệu nhận biết": "• Lá: đốm tròn màu cam–vàng sáng xuất hiện sau khi ra hoa, có thể viền đỏ/vàng; mặt dưới lá, ngay dưới đốm, có các túi bào tử dạng ống (aecia).\n• Quả: có thể bị đốm lồi, còi cọc, méo mó và rụng sớm.",
+        "Nguyên nhân gây bệnh": "Do nấm Gymnosporangium juniperi-virginianae – nấm gỉ sắt cần hai ký chủ: bách xù/tuyết tùng đỏ (Juniperus, ký chủ chính) và táo/táo dại (ký chủ phụ). Nấm qua đông trong các khối u (galls) trên bách xù, chu kì khoảng 2 năm; mùa xuân có mưa, khối u hút nước phồng lên và tạo sợi nhầy màu cam (telial horns) phát tán bào tử sang táo. Táo dễ nhiễm nhất từ đầu nở hoa đến khoảng 30 ngày sau khi hoa nở.",
+        "Cách phòng ngừa": "• Trồng giống táo kháng/ít nhiễm (tài liệu nêu ví dụ: Red Delicious, Empire, McIntosh, Liberty, Spartan…). \n• Loại bỏ ký chủ phụ (bách xù/tuyết tùng đỏ) trong bán kính khoảng 4–5 dặm (≈ 6–8 km) quanh vườn có thể ngăn lây nhiễm, nhưng khó thực hiện bền vững ngoài thực tế.\n• Phun phòng đúng giai đoạn mẫn cảm (đầu nở hoa đến khoảng 30 ngày sau nở).",
+        "Cách xử lí khi cây bị bệnh": "• Thuốc ức chế sterol (SI, nhóm FRAC 3) hiệu quả nhất; các đợt phun SI cho ghẻ táo trước nay thường cũng kiểm soát được gỉ sắt. Mancozeb cũng được liệt kê. \n• Quản lí cả hai ký chủ: biện pháp trên ký chủ này thường cần đi kèm biện pháp trên ký chủ còn lại (giảm nguồn bệnh trên bách xù gần vườn nếu có thể). \n• Chỉ dùng thuốc đã đăng ký tại Việt Nam và theo nhãn."
+    },
+    {
+        "ma_nhan": 4,
+        "folder_goc": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+        "ten_lop": "Corn_Gray_leaf_spot",
+        "Tên cây trồng": "Ngô (bắp)",
+        "Tên bệnh": "Ngô – Bệnh đốm lá xám",
+        "Dấu hiệu nhận biết": "• Vết bệnh hình chữ nhật, màu xám đến nâu nhạt, bị giới hạn bởi gân lá nên chạy song song với gân. \n• Nhiều vết liên kết nhau làm lá cháy khô; vết bệnh cũng có thể xuất hiện trên bẹ/vỏ bắp. \n• Thường thấy trước trên lá phía dưới tán.",
+        "Nguyên nhân gây bệnh": "Do nấm Cercospora zeae-maydis. Nấm sống sót trong tàn dư ngô trên mặt đất, nên trồng ngô liên tiếp (không luân canh) làm tăng nguy cơ. Bệnh thuận lợi khi trời nóng ấm (trên khoảng 27°C / 80°F) và ẩm độ cao kéo dài.",
+        "Cách phòng ngừa": "• Trồng giống/lai kháng hoặc chịu bệnh. \n• Luân canh với cây không phải ngô và làm đất (cày vùi tàn dư) để giảm sống sót của nấm.",
+        "Cách xử lí khi cây bị bệnh": "• Có thuốc trừ nấm lá đăng ký cho bệnh đốm lá xám; dùng theo nhãn khi bệnh xuất hiện hoặc nguy cơ cao. Hiệu lực từng thuốc xem ấn phẩm “Fungicide Efficacy for Control of Corn Diseases” của Crop Protection Network. \n• Sau thu hoạch xử lí/cày vùi tàn dư để giảm nguồn bệnh vụ sau. \n• Chỉ dùng thuốc đã đăng ký tại Việt Nam và theo nhãn."
+    },
+    {
+        "ma_nhan": 5,
+        "folder_goc": "Corn_(maize)___Common_rust_",
+        "ten_lop": "Corn_Common_rust",
+        "Tên cây trồng": "Ngô (bắp)",
+        "Tên bệnh": "Ngô – Bệnh gỉ sắt thông thường",
+        "Dấu hiệu nhận biết": "• Ổ bào tử (pustules) nổi, màu đỏ gạch đến nâu, mọc rải rác trên cả mặt trên và mặt dưới lá; bẹ lá, vỏ bắp và thân cũng có thể bị nhiễm. \n• Khi nặng, mô lá quanh ổ bào tử chết, lá khô.",
+        "Nguyên nhân gây bệnh": "Do nấm Puccinia sorghi, cần mô cây sống để tồn tại nên không qua đông ở vùng lạnh; bào tử được gió mang từ vùng ấm hơn đến. Bệnh phát triển khi ấm vừa (khoảng 16–25°C / 61–77°F) và ẩm cao; thời tiết mưa thuận lợi cho bệnh.",
+        "Cách phòng ngừa": "• Dùng giống/lai kháng (có sẵn; phần lớn ngô lai thương phẩm kháng khá tốt). \n• Chú ý thời vụ: lá non dễ nhiễm hơn lá trưởng thành.",
+        "Cách xử lí khi cây bị bệnh": "• Thường không cần phun thuốc ở ngô lai khi bệnh ở mức bình thường; chỉ cân nhắc với giống nhiễm hoặc ngô đặc sản (ngô ngọt, dòng thuần) khi điều kiện rất thuận lợi cho bệnh. \n• Khi cần, dùng thuốc trừ nấm lá đã đăng ký; xem bảng hiệu lực của Crop Protection Network. \n• Chỉ dùng thuốc đã đăng ký tại Việt Nam và theo nhãn."
+    },
+    {
+        "ma_nhan": 6,
+        "folder_goc": "Corn_(maize)___Northern_Leaf_Blight",
+        "ten_lop": "Corn_Northern_Leaf_Blight",
+        "Tên cây trồng": "Ngô (bắp)",
+        "Tên bệnh": "Ngô – Bệnh cháy lá phương Bắc",
+        "Dấu hiệu nhận biết": "• Vết bệnh ban đầu màu xám xanh nhạt, hình bầu dục/hình điếu xì gà, lan rộng đến hơn 15 cm; về sau chuyển nâu vàng–xám với vùng sẫm màu (bào tử). \n• Vết không bị giới hạn bởi gân lá (khác bệnh đốm lá xám). \n• Nhiễm nặng làm cháy lá, cuối vụ trông như bị sương giá; thiệt hại năng suất có thể tới khoảng 50% ở giống nhiễm.",
+        "Nguyên nhân gây bệnh": "Do nấm Exserohilum turcicum (tên khác: Setosphaeria turcica). Nấm qua đông trên tàn dư lá; bào tử theo gió có thể đi xa. Nguồn bệnh chính thường là tàn dư trong chính ruộng. Bệnh thuận lợi khi sương/ẩm kéo dài và nhiệt độ ấm vừa (khoảng 18–27°C / 64–81°F).",
+        "Cách phòng ngừa": "• Chọn giống/lai kháng, đặc biệt khi trồng ngô liên tiếp hoặc không làm đất. \n• Luân canh để cắt vòng đời bệnh.\n• Cày vùi tàn dư cây trồng sau thu hoạch.",
+        "Cách xử lí khi cây bị bệnh": "• Giống nhiễm có bệnh bắt đầu phát triển từ giai đoạn trổ cờ có thể có lợi khi phun thuốc trừ nấm lá. \n• Khuyến cáo thuốc cụ thể xem tài liệu khuyến nông địa phương/bảng hiệu lực thuốc. \n• Sau thu hoạch cày vùi tàn dư. \n• Chỉ dùng thuốc đã đăng ký tại Việt Nam và theo nhãn."
+    },
+    {
+        "ma_nhan": 7,
+        "folder_goc": "Potato___Early_blight",
+        "ten_lop": "Potato_Early_blight",
+        "Tên cây trồng": "Khoai tây",
+        "Tên bệnh": "Khoai tây – Bệnh đốm vòng",
+        "Dấu hiệu nhận biết": "• Lá: đốm nâu sẫm có các vòng đồng tâm xen dải nâu nhạt (dạng “bia bắn”), thường xuất hiện trước trên lá già/lá dưới. \n• Khi nặng, các đốm liên kết, lá vàng, chết; có thể rụng gần hết lá. \n• Củ: vết lõm sẫm trên vỏ, tròn hoặc không đều, viền nâu sẫm nổi; mô bên dưới khô, nâu, xốp như nút chai.",
+        "Nguyên nhân gây bệnh": "Do nấm Alternaria solani, qua đông trong tàn dư cây bệnh; bào tử phát tán trong và giữa các ruộng. Bệnh thường phát triển trên lá già/đang suy; mức độ phụ thuộc độ ẩm lá (mưa, sương, tưới), dinh dưỡng và độ mẫn cảm của giống; cây bị stress dễ nhiễm. Giống chín sớm mẫn cảm hơn.",
+        "Cách phòng ngừa": "• Luân canh với cây không thuộc họ cà, ít nhất khoảng 3 năm (3–4 năm). \n• Chọn giống chín muộn (tính kháng gắn với độ chín của cây). \n• Giữ cây khỏe, giảm stress, bón dinh dưỡng cân đối. \n• Thu dọn, tiêu hủy tàn dư để giảm nguồn bệnh.",
+        "Cách xử lí khi cây bị bệnh": "• Theo dõi ruộng; nguy cơ tăng sau khi tán lá khép kín và củ bắt đầu phình (khoảng 300 p-day theo hệ thống của Maine) – nên bắt đầu quản lí từ giai đoạn này. \n• Phun thuốc trừ nấm bảo vệ lá đã đăng ký, luân phiên hoạt chất, theo khuyến cáo địa phương.\n• Giữ cây khỏe, hạn chế stress để giảm mức nhiễm. \n• Chỉ dùng thuốc đã đăng ký tại Việt Nam và theo nhãn."
+    },
+    {
+        "ma_nhan": 8,
+        "folder_goc": "Potato___Late_blight",
+        "ten_lop": "Potato_Late_blight",
+        "Tên cây trồng": "Khoai tây",
+        "Tên bệnh": "Khoai tây – Bệnh mốc sương",
+        "Dấu hiệu nhận biết": "• Lá: đốm úng nước nhỏ màu xanh nhạt đến xanh đậm, tròn/không đều, nhanh chóng lan rộng và chuyển nâu đen, có quầng vàng nhạt/xanh nhạt xung quanh. Khi nặng, thân lá úng thối, có mùi đặc trưng. \n• Củ: vết nâu đến đỏ nâu, hơi lõm, hình dạng không đều; bên dưới là mô thối khô dạng hạt màu nâu vàng–nâu đỏ, ranh giới thường lan thành “ngón” nâu vào thịt củ; củ có thể thối mềm trong kho do vi sinh vật thứ cấp.",
+        "Nguyên nhân gây bệnh": "Do Phytophthora infestans – không phải nấm thật mà là oomycete (nấm nước). Nguồn bệnh ban đầu: củ giống nhiễm, đống củ loại bỏ, cây khoai mọc tự nhiên và ký chủ khác. Bào tử (sporangia) lan theo gió và nước mưa bắn; bệnh bùng phát khi ẩm ướt, mưa nhiều, độ ẩm cao và nhiệt độ vừa (khoảng 15–27°C / 60–80°F). Củ có thể nhiễm ở mọi giai đoạn, trước hoặc sau thu hoạch.",
+        "Cách phòng ngừa": "• Dùng củ giống sạch bệnh (có chứng nhận), không trồng khoai mua để ăn; không trộn lô giống vì cắt củ có thể lây bệnh. \n• Tiêu hủy củ loại bỏ và cây khoai mọc tự nhiên. \n• Có thể xử lí củ giống bằng thuốc đã đăng ký trị mốc sương. \n• Đây là “bệnh cộng đồng”: cần phối hợp quản lí giữa các ruộng lân cận.",
+        "Cách xử lí khi cây bị bệnh": "• Khi nghi mốc sương: xác nhận chẩn đoán (dễ nhầm với héo sớm hoặc mốc xám) và liên hệ cán bộ khuyến nông/BVTV địa phương.\n• Phun thuốc trừ nấm chuyên trị theo khuyến cáo; nên xác định nòi (genotype) của mầm bệnh để chọn thuốc phù hợp vì có nòi kháng một số hoạt chất. \n• Tiêu hủy cây bệnh nặng, củ loại bỏ, cây mọc tự nhiên. \n• Loại củ có vết bệnh trước khi nhập kho (củ nhiễm có thể thối mềm khi bảo quản). \n• Chỉ dùng thuốc đã đăng ký tại Việt Nam và theo nhãn."
+    }
+]
